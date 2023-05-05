@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (11.1.3)
+    rspec-core (3.12.2)
+      rspec-support (~> 3.12.0)
+    rspec-support (3.12.0)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  byebug
+  rspec-core
+
+BUNDLED WITH
+   2.2.33
