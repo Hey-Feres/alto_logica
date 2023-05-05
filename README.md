@@ -33,6 +33,7 @@ rspec
 > - imported bottle of perfume
 > - Sales Taxes
 > - Total
+
 > The 3rd test case fails missing 11 cents on:
 > - imported boxes of chocolates
 > - Sales Taxes
