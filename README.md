@@ -3,6 +3,7 @@
 Open terminal in the project root and type:
 
 ```bash
+bundle
 ruby app.rb
 ```
 
@@ -23,7 +24,8 @@ Byebug was added just for debugging purposes. It is not used in the code activel
 ### Testing
 
 ```bash
-bundle && rspec
+bundle
+rspec
 ```
 
 > Notice that 2 of the 3 test cases given, fails.
