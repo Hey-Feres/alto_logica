@@ -1,4 +1,4 @@
-### Running the test
+### Running the app
 
 Open terminal in the project root and type:
 
@@ -20,7 +20,7 @@ The decision to go with RSpec for testing was based only on my personal habit of
 
 Byebug was added just for debugging purposes. It is not used in the code actively.
 
-**Testing**
+### Testing
 
 ```bash
 bundle && rspec
