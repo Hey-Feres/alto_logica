@@ -39,4 +39,4 @@ rspec
 > - Sales Taxes
 > - Total
 
-> Honestly, whiting the given time, I could not figure out where in the maths I'm losting those cents. I'm aware of the importance of not let those decimals values get lost in the industry you work, but I decided that would be better deliver the test witing the time, even with the errors.
+> Honestly, within the given time, I could not figure out where in the maths I'm losting those cents. I'm aware of the importance of not let those decimals values get lost in the industry you work, but I decided that would be better deliver the test within the time, even with the errors.
