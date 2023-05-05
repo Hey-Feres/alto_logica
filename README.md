@@ -1,4 +1,4 @@
-#### Running the test
+### Running the test
 
 Open terminal in the project root and type:
 
@@ -6,7 +6,7 @@ Open terminal in the project root and type:
 ruby app.rb
 ```
 
-#### Description
+### Description
 
 Ruby used: `3.0.0`
 
