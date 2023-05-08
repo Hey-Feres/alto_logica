@@ -1,5 +1,7 @@
-require 'byebug'
-require './receipt_generator'
+# frozen_string_literal: true
+
+require './lib/receipt_generator'
+require './lib/receipt_printer'
 
 puts 'Input the products (press enter on an empty line when you are done): '
 items = []
@@ -10,4 +12,5 @@ while input != ''
   items << input if input != ''
 end
 
-ReceiptGenerator.new(items).print_receipt
+receipt = ReceiptGenerator.call(items)
+ReceiptPrinter.call(receipt)
